@@ -1,0 +1,9 @@
+export const GET_CATEGORYS = 'GET_CATEGORYS';
+
+export const GET_POSTS = 'GET_POSTS';
+
+export const GET_POST_DETAIL = 'GET_POST_DETAIL';
+
+export const GET_CATEGORYS_PAGE = 'GET_CATEGORYS_PAGE';
+
+
